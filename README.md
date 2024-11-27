@@ -22,6 +22,7 @@ Menu: MenuItem 객체의 목록을 관리합니다. 메뉴 항목을 추가하�
 1. 애플리케이션을 시작하면 사용자는 다음과 같은 메인 메뉴를 보게 됩니다:
 
 ![image](https://github.com/user-attachments/assets/5f6ac51e-a6eb-42c6-bbb2-772f81745c56)
+
 2. 사용자는 카테고리에 해당하는 숫자를 입력하여 항목을 볼 수 있습니다.
  ![image](https://github.com/user-attachments/assets/86ade459-0c77-4c7e-b700-df36cd5e09a4)
 3. 카테고리를 선택한 후, 사용자는 항목 번호를 입력하여 항목을 선택할 수 있습니다.
