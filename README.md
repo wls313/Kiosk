@@ -27,6 +27,9 @@ Menu: MenuItem 객체의 목록을 관리합니다. 메뉴 항목을 추가하�
  ![image](https://github.com/user-attachments/assets/a2023471-f7f7-495e-a9ea-ea87e291641d)
 
 코드 설명
+
 Kiosk 클래스는 Scanner를 사용하여 사용자 입력을 읽고 애플리케이션의 흐름을 관리합니다.
+
 Menu 클래스는 MenuItem 객체의 목록을 보유하여 항목을 쉽게 추가하고 검색할 수 있도록 합니다.
+
 MenuItem 클래스는 각 메뉴 항목의 속성을 캡슐화하여 각 항목이 이름, 유형, 가격 및 설명을 가지도록 합니다.
